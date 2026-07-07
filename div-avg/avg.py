@@ -1,2 +1,2 @@
-def avg(num1:int ,num2:int,num3:int)->float:
-    return (num1+num2+num3)/3
+def avg(num1:list)->float:
+    return sum(num1)/len(num1)
