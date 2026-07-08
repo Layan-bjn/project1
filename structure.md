@@ -1,9 +1,10 @@
 │   main.py
+│   structure.md
 │   
-├───div-avg
+├───div_avg
 │       avg.py
 │       div.py
 │       
-└───sub-add
+└───sub_add
         add.py
         sub.py
